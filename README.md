@@ -1,8 +1,6 @@
 # Fashion_RAG_Chatbot
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions from fashion PDF documents using LlamaIndex, Mistral-7B, HuggingFace embeddings, and Gradio.
 
-## 📌 Fashion RAG Chatbot System
-
 This project is a Retrieval-Augmented Generation (RAG) based chatbot that enables users to ask questions about a fashion-related PDF document and receive context-aware answers.
 
 The system processes the document, converts it into embeddings, retrieves the most relevant sections, and generates accurate responses using a local Large Language Model.
