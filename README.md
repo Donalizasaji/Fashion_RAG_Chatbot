@@ -60,5 +60,5 @@ The system processes the document, converts it into embeddings, retrieves the mo
 
 ## 👩‍💻 Author
 
-Dona Saji  
+Dona Liza Saji  
 Master’s in AI & ML | Aspiring AI Engineer
